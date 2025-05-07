@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "kt 5/4/2025 10:57",
+	"super" : "BorderedMorph",
+	"category" : "Kt_PBE6-Tutorial",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cells"
+	],
+	"name" : "Kt_LOGame",
+	"type" : "normal"
+}

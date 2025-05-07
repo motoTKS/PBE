@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "kt 5/4/2025 10:56",
+	"super" : "SimpleSwitchMorph",
+	"category" : "Kt_PBE6-Tutorial",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mouseAction"
+	],
+	"name" : "Kt_LOCell",
+	"type" : "normal"
+}
